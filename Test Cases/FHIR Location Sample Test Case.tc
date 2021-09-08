@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>FHIR Location Sample Test Case</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>96f309e0-6003-4990-8a6d-20b14dddcadd</testCaseGuid>
+</TestCaseEntity>

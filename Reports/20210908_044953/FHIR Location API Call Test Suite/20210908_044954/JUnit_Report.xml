@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="FHIR Location API Call Test Suite" time="2.631" tests="1" failures="0" errors="0">
+   <testsuite name="FHIR Location API Call Test Suite" tests="1" failures="0" errors="0" time="2.631" skipped="0" timestamp="2021-09-08 04:49:57" hostname="NRGIT - 10.0.0.51" id="Test Suites/FHIR Location API Call Test Suite">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\NRGIT\\git\\SampleTestProject\\Reports\\20210908_044953\\FHIR Location API Call Test Suite\\20210908_044954"/>
+         <property name="logFiles" value="C:\\Users\\NRGIT\\git\\SampleTestProject\\Reports\\20210908_044953\\FHIR Location API Call Test Suite\\20210908_044954\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="NRGIT - 10.0.0.51"/>
+         <property name="hostAddress" value="10.0.0.51"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="8.1.0.208"/>
+      </properties>
+      <testcase name="Test Cases/FHIR Location Sample Test Case" time="1.885" classname="Test Cases/FHIR Location Sample Test Case" status="PASSED">
+         <system-out><![CDATA[2021-09-08 04:49:57 - [TEST_CASE][PASSED] - Test Cases/FHIR Location Sample Test Case: Test Cases/FHIR Location Sample Test Case
+
+2021-09-08 04:49:57 - [TEST_STEP][PASSED] - sendRequest(findTestObject("Sample FHIR API Calls/Sample FHIR Location API Call")): Send request successfully
+
+2021-09-08 04:49:59 - [MESSAGE][INFO] - HAR: C:\Users\NRGIT\git\SampleTestProject\Reports\20210908_044953\FHIR Location API Call Test Suite\20210908_044954\requests\main\0.har
+
+2021-09-08 04:49:59 - [MESSAGE][PASSED] - Send request successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2021-09-08 04:49:57 - [TEST_SUITE][PASSED] - FHIR Location API Call Test Suite: Test Cases/FHIR Location Sample Test Case]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

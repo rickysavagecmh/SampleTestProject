@@ -1,0 +1,5 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+FHIR Location API Call Test Suite,,,,2021-09-08 04:49:57,2021-09-08 04:49:59,2.130s,PASSED
+,,,,,,,
+Test Cases/FHIR Location Sample Test Case,,,,2021-09-08 04:49:57,2021-09-08 04:49:59,1.885s,PASSED
+"sendRequest(findTestObject(""Sample FHIR API Calls/Sample FHIR Location API Call""))",,,,2021-09-08 04:49:57,2021-09-08 04:49:59,1.560s,PASSED
